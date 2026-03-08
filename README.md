@@ -1,5 +1,12 @@
-# Basic HTML Website
+# HTML Learning Roadmap
 
-## This project is created using HTML.
+This project is a self learning HTML documentation project.
 
-## Live Project
+## Topics
+- HTML Basic
+- Heading
+- Paragraph
+- List
+
+## Project URL
+https://yourusername.github.io/html-roadmap/
